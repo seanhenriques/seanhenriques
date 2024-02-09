@@ -14,3 +14,9 @@ This is where I learn to code 💻
 #### 📜 Recent Certificates
 - ♻️ Career Essentials in Sustainable Tech *via* Microsoft
 - 🖥️ Specialization in Web Applications *via* University of Michigan
+
+#### 🎧 What I'm listening to
+- 🎶 [Skel](https://www.youtube.com/watch?v=JQVOCcEG-BA) - Sigur Rós
+- 🎶 [Stay Close](https://www.youtube.com/watch?v=6LuGK58I2WQ) - SYML
+- 🎶 [Better Off (Alone, Pt. III)](https://www.youtube.com/watch?v=ouEl3qTLc0M) - Alan Walker, Dash Berlin & Vikkstar
+- 🎶 [Melody](https://www.youtube.com/watch?v=1SJSfaa4Owo) - Sigala
