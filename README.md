@@ -20,3 +20,6 @@ This is where I learn to code 💻
 - 🎶 [Stay Close](https://www.youtube.com/watch?v=6LuGK58I2WQ) - SYML
 - 🎶 [Better Off (Alone, Pt. III)](https://www.youtube.com/watch?v=ouEl3qTLc0M) - Alan Walker, Dash Berlin & Vikkstar
 - 🎶 [Melody](https://www.youtube.com/watch?v=1SJSfaa4Owo) - Sigala
+
+#### 📖 Currently reading
+- 📕 [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.amazon.co.uk/Digital-Minimalism-Living-Better-Technology/dp/0241341132/) - Cal Newport
