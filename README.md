@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Sean Henriques 👋
 
-<!--
-**seanhenriques/seanhenriques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is where I learn to code 💻
 
-Here are some ideas to get you started:
+#### 👨🏻‍💻 About Me
+- 🔬 Passionate about Data Analysis
+- 🔎 I'm currently studying `Python`, `AI` and `Mathematics`
+- ❤️ I love working with `SQL` and `PHP`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🎓 Education
+- 🔬 MSc in Computer Science
+- 💻 BSc in Multimedia Systems/Web Engineering
+
+#### 📜 Recent Certificates
+- ♻️ Career Essentials in Sustainable Tech *via* Microsoft
+- 🖥️ Specialization in Web Applications *via* University of Michigan
