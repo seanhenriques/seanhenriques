@@ -16,6 +16,7 @@ This is where I learn to code 💻
 - 🖥️ Specialization in Web Applications *via* University of Michigan
 
 #### 🎧 What I'm listening to
+- 🎶 [Let It Go](https://www.youtube.com/watch?v=gFiVzPAqwhs) - Bru-C
 - 🎶 [Skel](https://www.youtube.com/watch?v=JQVOCcEG-BA) - Sigur Rós
 - 🎶 [Stay Close](https://www.youtube.com/watch?v=6LuGK58I2WQ) - SYML
 - 🎶 [Better Off (Alone, Pt. III)](https://www.youtube.com/watch?v=ouEl3qTLc0M) - Alan Walker, Dash Berlin & Vikkstar
