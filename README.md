@@ -16,11 +16,11 @@ This is where I learn to code 💻
 - 🖥️ Specialization in Web Applications *via* University of Michigan
 
 #### 🎧 What I'm listening to
-- 🎶 [Let It Go](https://www.youtube.com/watch?v=gFiVzPAqwhs) - Bru-C
-- 🎶 [Skel](https://www.youtube.com/watch?v=JQVOCcEG-BA) - Sigur Rós
-- 🎶 [Stay Close](https://www.youtube.com/watch?v=6LuGK58I2WQ) - SYML
-- 🎶 [Better Off (Alone, Pt. III)](https://www.youtube.com/watch?v=ouEl3qTLc0M) - Alan Walker, Dash Berlin & Vikkstar
-- 🎶 [Melody](https://www.youtube.com/watch?v=1SJSfaa4Owo) - Sigala
+- 🎶 [Let It Go](https://open.spotify.com/track/280gb8mXCUDCvFQzmthd6g) - Bru-C
+- 🎶 [Skel](https://open.spotify.com/track/1S0Gk6NgWNTE9tZ43lXmor) - Sigur Rós
+- 🎶 [Stay Close](https://open.spotify.com/track/4MdzsLc3uMxAulhPbELWjt) - SYML
+- 🎶 [Better Off (Alone, Pt. III)](https://open.spotify.com/track/5hT3U17QZiP74YN9xF32JG) - Alan Walker, Dash Berlin & Vikkstar
+- 🎶 [Melody](https://open.spotify.com/track/4ZofmEdvs4mQqZ756GQhSY) - Sigala
 
 #### 📖 Currently reading
 - 📕 [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.amazon.co.uk/Digital-Minimalism-Living-Better-Technology/dp/0241341132/) - Cal Newport
