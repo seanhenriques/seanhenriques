@@ -23,4 +23,5 @@ This is where I learn to code 💻
 - 🎶 [Better Off (Alone, Pt. III)](https://open.spotify.com/track/5hT3U17QZiP74YN9xF32JG) - Alan Walker, Dash Berlin & Vikkstar
 
 #### 📖 Currently reading
-- 📕 [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.amazon.co.uk/Digital-Minimalism-Living-Better-Technology/dp/0241341132/) - Cal Newport
+- 📕 **Digital Minimalism: Choosing a Focused Life in a Noisy World** by Cal Newport
+- 📕 **Steve Jobs** by Walter Isaacson
