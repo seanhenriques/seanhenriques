@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hello, I'm [Sean Henriques](https://iadt.ie/about/staff/sean-henriques/) 👋🏻👨🏻‍💻
 
-<!--
-**shenriques95/shenriques95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an educational technologist who loves finding creative ways to use technology to help people learn and grow.  I love working on projects with `Databases`, `Data Visualisation` and `Web Engineering`.
 
-Here are some ideas to get you started:
+I have been coding since 2008 when I started building online video games.  I have since earned my Master's degree in Computer Science from [University College Dublin](https://www.ucd.ie/), and have been fortunate to work in both third-level universities and corporate businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+#### Find me around the web 🌍
+- 🍿 [Letterboxd.com](https://letterboxd.com/seanhenriques/) **-** View my tracked and rated movies.
+
+- 🏆 [PSNProfiles.com](https://psnprofiles.com/shenriques95) **-** Display case for my PlayStation trophies.
+
+- 🎧 [Apple Music](https://music.apple.com/profile/seanhenriques) **-** Check out my playlists.
