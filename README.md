@@ -9,6 +9,6 @@ I have been coding since 2008 when I started building online video games.  I hav
 #### Find me around the web 🌍
 - 🍿 [Letterboxd.com](https://letterboxd.com/seanhenriques/) **-** View my tracked and rated movies.
 
-- 🏆 [PSNProfiles.com](https://psnprofiles.com/paragoom?order=percent) **-** Display case for my PlayStation trophies.
+- 🏆 [PSNProfiles.com](https://psnprofiles.com/shenriques95?order=percent) **-** Display case for my PlayStation trophies.
 
 - 🎧 [Apple Music](https://music.apple.com/profile/seanhenriques) **-** Check out my playlists.
