@@ -18,12 +18,3 @@
 - 📜 **Master's Degree in Computer Science** **-** [University College Dublin](https://ucd.ie), _(2019 - 2020)_
 
 - 📜 **Bachelor's Degree in Multimedia Systems/Web Engineering** **-** [Institute of Art, Design & Technology](https://iadt.ie), _(2014 - 2018)_
-
-<br>
-
-#### Find me around the web 🌍
-- 🍿 [Letterboxd.com](https://letterboxd.com/seanhenriques/) **-** View my tracked and rated movies.
-
-- 🏆 [PSNProfiles.com](https://psnprofiles.com/shenriques95?order=percent) **-** Display case for my PlayStation trophies.
-
-- 🎧 [Apple Music](https://music.apple.com/profile/seanhenriques) **-** Check out my playlists.
