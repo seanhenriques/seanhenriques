@@ -4,8 +4,6 @@
 #### Employment 💼
 - 🧠 **Psychology Technician** **-** [Institute of Art, Design & Technology](https://iadt.ie), _(2023 - Present)_
 
-- 📈 **Business Intelligence Analyst** **-** [Currys PLC](https://business.currys.co.uk/), _(2022 - 2023)_
-
 - 👨🏻‍🏫 **Assistant Lecturer (Computer Science)** **-** [Technological University Dublin](https://www.tudublin.ie/), _(2021 - 2022)_
 
 - 👨🏻‍🔬 **Researcher** **-** [Technological University Dublin](https://www.tudublin.ie/), _(2020 - 2022)_
