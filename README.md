@@ -8,8 +8,6 @@
 
 - 👨🏻‍🔬 **Researcher** **-** [Technological University Dublin](https://www.tudublin.ie/), _(2020 - 2022)_
 
-- 🕹️ **Game Developer** **-** Hexedron Software, _(2018 - 2019)_
-
 <br>
 
 #### Education 🎓
