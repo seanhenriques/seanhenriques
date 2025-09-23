@@ -1,6 +1,11 @@
 ### Hello, I'm [Sean Henriques](https://iadt.ie/about/staff/sean-henriques/) 👋🏻👨🏻‍💻
 
 
+#### Featured 📰
+- 🧠 **4th Annual BSc Applied Psychology Thesis Talks Seminar** **-** [4th Annual BSc Applied Psychology Thesis Talks Seminar](https://iadt.ie/news/4th-annual-bsc-applied-psychology-thesis-talks-seminar/), _(September 2025)_
+
+<br>
+
 #### Employment 💼
 - 🧠 **Psychology Technician** **-** [Institute of Art, Design & Technology](https://iadt.ie), _(2023 - Present)_
 
