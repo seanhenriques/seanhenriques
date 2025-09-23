@@ -2,7 +2,7 @@
 
 
 #### Featured 📰
-- 🧠 **4th Annual BSc Applied Psychology Thesis Talks Seminar** **-** [4th Annual BSc Applied Psychology Thesis Talks Seminar](https://iadt.ie/news/4th-annual-bsc-applied-psychology-thesis-talks-seminar/), _(September 2025)_
+- 🧠 [4th Annual BSc Applied Psychology Thesis Talks Seminar](https://iadt.ie/news/4th-annual-bsc-applied-psychology-thesis-talks-seminar/), _(September 2025)_
 
 <br>
 
