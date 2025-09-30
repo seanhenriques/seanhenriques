@@ -1,21 +1,17 @@
-### Hello, I'm [Sean Henriques](https://iadt.ie/about/staff/sean-henriques/) 👋🏻👨🏻‍💻
+### Hello, I'm [Sean Henriques](https://research.iadt.ie/en/persons/sean-henriques) 👋🏻👨🏻‍💻
 
 
-#### Featured 📰
+#### Featured News
 - [4th Annual BSc Applied Psychology Thesis Talks Seminar](https://iadt.ie/news/4th-annual-bsc-applied-psychology-thesis-talks-seminar/), _(September 2025)_
 
 <br>
 
-#### Employment 💼
-- 🧠 **Psychology Technician** **-** [Institute of Art, Design & Technology](https://iadt.ie), _(2023 - Present)_
-
-- 👨🏻‍🏫 **Assistant Lecturer (Computer Science)** **-** [Technological University Dublin](https://www.tudublin.ie/), _(2021 - 2022)_
-
-- 👨🏻‍🔬 **Researcher** **-** [Technological University Dublin](https://www.tudublin.ie/), _(2020 - 2022)_
+#### Publications
+- [Investigating how speech and animation realism influence the perceived personality of virtual characters and agents](https://ieeexplore.ieee.org/abstract/document/9756815) _(2022)_ DOI: 10.1109/VR51125.2022.00018
+- [Human or Robot?: Investigating voice, appearance and gesture motion realism of conversational social agents](https://dl.acm.org/doi/abs/10.1145/3472306.3478338) _(2021)_ DOI: 10.1145/3472306.3478338
 
 <br>
 
-#### Education 🎓
-- 📜 **Master's Degree in Computer Science** **-** [University College Dublin](https://ucd.ie), _(2019 - 2020)_
+#### Articles
+- [What the flip is the Metaverse?](https://arrow.tudublin.ie/tudcontrib/292/) _(2021)_
 
-- 📜 **Bachelor's Degree in Multimedia Systems/Web Engineering** **-** [Institute of Art, Design & Technology](https://iadt.ie), _(2014 - 2018)_
