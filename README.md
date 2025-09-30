@@ -3,6 +3,7 @@
 
 #### Featured News
 - [4th Annual BSc Applied Psychology Thesis Talks Seminar](https://iadt.ie/news/4th-annual-bsc-applied-psychology-thesis-talks-seminar/), _(September 2025)_
+- [Applied Psychology team host delegation from Tallinn University](https://iadt.ie/news/tallinn-university/), _(November 2024)_
 
 
 
