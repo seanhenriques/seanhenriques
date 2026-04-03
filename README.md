@@ -4,7 +4,9 @@ I'm Sean Henriques from Dublin, Ireland 🇮🇪
 
 
 ### News & Events
+##### 2026
 - [Psychology Project: Can VR environments foster a sense of awe?](https://iadt.ie/news/vr-awe/)
+##### 2025
 - [4th Annual BSc Applied Psychology Thesis Talks Seminar](https://iadt.ie/news/4th-annual-bsc-applied-psychology-thesis-talks-seminar/)
 - [Applied Psychology team host delegation from Tallinn University](https://iadt.ie/news/tallinn-university/)
 <!--
