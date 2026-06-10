@@ -3,7 +3,7 @@
 I'm Sean Henriques from Dublin, Ireland 🇮🇪
 
 
-### News & Events
+### Publications
 ##### 2026
 - [Psychology Project: Can VR environments foster a sense of awe?](https://iadt.ie/news/vr-awe/)
 ##### 2025
