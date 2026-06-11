@@ -1,4 +1,8 @@
 ## Publications
+Maguire, A., Garcia-Albarran, E., Henriques, S. (2026) [The Bilingual Advantage](https://ijrc.ie/index.php/ijrc/article/view/3779)
+
+Cloran, N., Henriques, S., Cronin, C., Greaney, J. (2026) [Do awe-inpsiring VR environments impact creativity?](https://ijrc.ie/index.php/ijrc/article/view/3778)
+
 Schommerloh, L., McNichols, T., Horn, C., Henriques, S. (2026) [The Effects of Background Music and Music Listening on Reading Recall and Extraneous Cognitive Load](https://research.iadt.ie/en/publications/the-effects-of-background-music-and-music-listening-on-reading-re/)
 
 Lütkemeier, J., Horn, C., McDonnell, M., Henriques, S. (2025) [Enhancing Visual Performance: Contrast Polarity, Visual Search, and Distractor Suppression](https://link.springer.com/chapter/10.1007/978-3-032-07986-2_21)
