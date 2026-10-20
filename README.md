@@ -24,7 +24,7 @@ J. Lütkemeier, C. Horn, M. McDonnell, **S. Henriques**
 **S. Thomas** (Henriques), Y. Ferstl, R. McDonnell, C. Ennis  
 [View Publication](https://ieeexplore.ieee.org/abstract/document/9756815)
 
-**2021** · *What the flip is the Metaverse?*
+**2021** · *What the flip is the Metaverse?*  
 **S. Thomas**  
 [View Publication](https://www.rte.ie/brainstorm/2021/1109/1258766-metaverse-virtual-reality-facebook-mark-zuckerberg/)
 
