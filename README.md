@@ -26,7 +26,7 @@ J. Lütkemeier, C. Horn, M. McDonnell, **S. Henriques**
 
 **2021** · *What the flip is the Metaverse?*
 **S. Thomas**
-[View Publication]([https://dl.acm.org/doi/abs/10.1145/3472306.3478338](https://www.rte.ie/brainstorm/2021/1109/1258766-metaverse-virtual-reality-facebook-mark-zuckerberg/))
+[View Publication](https://www.rte.ie/brainstorm/2021/1109/1258766-metaverse-virtual-reality-facebook-mark-zuckerberg/)
 
 **2021** · *Human or Robot? Investigating Voice, Appearance and Gesture Motion Realism of Conversational Social Agents*  
 Y. Ferstl, **S. Thomas** (Henriques), C. Guiard, C. Ennis, R. McDonnell  
