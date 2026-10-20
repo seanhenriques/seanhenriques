@@ -21,9 +21,9 @@ J. Lütkemeier, C. Horn, M. McDonnell, **S. Henriques**
 [View Publication](https://research.iadt.ie/en/publications/n-tutorr-genain3-empowering-learners-and-developing-capabilities-/)
 
 **2022** · *Investigating How Speech and Animation Realism Influence the Perceived Personality of Virtual Characters and Agents*  
-**S. Henriques**, Y. Ferstl, R. McDonnell, C. Ennis  
+**S. Thomas** (Henriques), Y. Ferstl, R. McDonnell, C. Ennis  
 [View Publication](https://ieeexplore.ieee.org/abstract/document/9756815)
 
 **2021** · *Human or Robot? Investigating Voice, Appearance and Gesture Motion Realism of Conversational Social Agents*  
-Y. Ferstl, **S. Henriques**, C. Guiard, C. Ennis, R. McDonnell  
+Y. Ferstl, **S. Thomas** (Henriques), C. Guiard, C. Ennis, R. McDonnell  
 [View Publication](https://dl.acm.org/doi/abs/10.1145/3472306.3478338)
